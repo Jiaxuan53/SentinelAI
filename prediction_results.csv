@@ -1,0 +1,1001 @@
+api_requests_last_minute,estimated_cost,failed_login_attempts,session_duration,prompt_length,unique_ip_count,prompt_injection,prediction,risk_score,attack_type
+17,2.02,1,59,145,1,False,0,16.96,Normal
+25,2.08,0,22,195,1,False,0,7.67,Normal
+9,1.54,0,20,134,1,False,0,9.52,Normal
+15,3.3,0,48,113,1,False,0,8.67,Normal
+19,3.28,1,60,190,1,False,0,23.64,Normal
+8,0.47,0,32,88,1,False,0,11.17,Normal
+21,1.7,0,25,178,1,False,0,4.6,Normal
+22,3.41,1,36,98,1,False,0,12.06,Normal
+7,1.13,0,48,202,1,False,0,7.11,Normal
+24,2.88,0,29,212,1,False,0,6.54,Normal
+15,2.42,0,37,247,1,False,0,7.42,Normal
+24,1.98,1,51,100,1,False,0,10.54,Normal
+25,3.16,0,59,100,1,False,0,24.26,Normal
+5,2.73,0,27,112,1,False,0,11.85,Normal
+27,1.78,0,42,199,1,False,0,4.03,Normal
+14,2.38,1,47,184,1,False,0,5.38,Normal
+29,1.33,1,36,152,1,False,0,5.44,Normal
+16,0.78,1,42,228,1,False,0,8.61,Normal
+24,2.56,0,30,167,1,False,0,3.01,Normal
+8,1.13,0,55,120,1,False,0,8.57,Normal
+14,0.36,1,52,91,1,False,0,16.13,Normal
+23,2.32,1,42,95,1,False,0,9.43,Normal
+13,1.13,1,57,113,1,False,0,13.87,Normal
+26,0.76,1,45,92,1,False,0,13.9,Normal
+18,1.8,1,25,101,1,False,0,11.46,Normal
+24,0.5,1,22,119,1,False,0,12.38,Normal
+12,1.55,1,29,93,1,False,0,10.39,Normal
+17,1.31,0,36,188,1,False,0,0.62,Normal
+5,1.12,1,59,193,1,False,0,20.86,Normal
+22,2.0,1,47,247,1,False,0,11.24,Normal
+10,1.65,1,25,98,1,False,0,13.41,Normal
+9,2.19,1,32,184,1,False,0,3.74,Normal
+17,0.95,1,42,99,1,False,0,7.09,Normal
+23,1.23,0,55,229,1,False,0,11.56,Normal
+7,2.44,0,34,230,1,False,0,6.85,Normal
+16,0.82,0,39,135,1,False,0,1.65,Normal
+24,2.96,1,55,115,1,False,0,14.79,Normal
+8,0.43,1,60,210,1,False,0,28.28,Normal
+21,1.61,1,43,183,1,False,0,3.95,Normal
+10,1.3,1,54,168,1,False,0,9.63,Normal
+23,3.08,0,36,82,1,False,0,10.92,Normal
+6,1.65,1,58,103,1,False,0,21.86,Normal
+11,0.79,1,33,160,1,False,0,2.88,Normal
+27,1.21,1,46,225,1,False,0,9.61,Normal
+17,3.42,1,38,99,1,False,0,11.94,Normal
+13,3.43,0,43,218,1,False,0,9.44,Normal
+26,1.87,1,53,164,1,False,0,10.86,Normal
+14,1.2,0,29,149,1,False,0,1.74,Normal
+22,2.67,1,29,97,1,False,0,9.74,Normal
+7,3.15,0,53,184,1,False,0,9.94,Normal
+25,1.92,1,42,149,1,False,0,4.18,Normal
+27,3.28,0,40,132,1,False,0,6.57,Normal
+8,1.7,1,25,159,1,False,0,7.61,Normal
+21,0.78,0,32,96,1,False,0,6.57,Normal
+7,1.95,1,57,182,1,False,0,14.76,Normal
+5,2.79,0,21,164,1,False,0,12.63,Normal
+25,3.3,0,44,139,1,False,0,6.67,Normal
+11,2.69,0,47,107,1,False,0,7.6,Normal
+29,1.82,0,43,205,1,False,0,6.14,Normal
+15,1.29,0,60,148,1,False,0,18.23,Normal
+10,1.27,1,44,202,1,False,0,5.3,Normal
+23,1.88,0,35,153,1,False,0,0.0,Normal
+22,0.68,1,25,97,1,False,0,13.33,Normal
+8,3.41,1,59,207,1,False,0,25.99,Normal
+22,2.07,0,49,156,1,False,0,3.08,Normal
+23,2.88,0,28,121,1,False,0,6.98,Normal
+9,1.57,0,34,237,1,False,0,5.72,Normal
+19,1.1,0,36,132,1,False,0,0.44,Normal
+25,0.9,0,46,148,1,False,0,3.78,Normal
+25,2.31,1,39,161,1,False,0,3.44,Normal
+18,2.92,1,22,182,1,False,0,10.66,Normal
+15,2.13,1,44,196,1,False,0,5.12,Normal
+24,1.73,1,45,124,1,False,0,5.85,Normal
+20,3.08,0,23,187,1,False,0,8.13,Normal
+12,2.07,0,34,205,1,False,0,2.91,Normal
+17,1.68,1,41,175,1,False,0,3.16,Normal
+13,3.07,0,20,99,1,False,0,14.55,Normal
+14,0.4,1,33,139,1,False,0,5.69,Normal
+29,2.03,0,40,221,1,False,0,6.98,Normal
+18,0.23,1,52,130,1,False,0,13.05,Normal
+17,0.91,0,50,147,1,False,0,3.33,Normal
+10,1.64,0,20,144,1,False,0,8.84,Normal
+29,0.29,0,22,155,1,False,0,12.49,Normal
+25,2.95,1,55,245,1,False,0,20.25,Normal
+21,2.44,1,58,237,1,False,0,21.23,Normal
+18,2.24,0,35,185,1,False,0,0.76,Normal
+21,0.49,0,40,165,1,False,0,2.59,Normal
+12,0.66,1,22,115,1,False,0,11.98,Normal
+10,1.39,1,48,86,1,False,0,14.4,Normal
+28,1.01,0,21,234,1,False,0,15.11,Normal
+16,0.45,0,60,116,1,False,0,24.51,Normal
+28,1.08,0,26,102,1,False,0,11.59,Normal
+6,0.25,0,39,87,1,False,0,16.44,Normal
+7,1.01,0,22,249,1,False,0,17.67,Normal
+27,3.48,1,34,128,1,False,0,10.89,Normal
+17,1.51,1,52,195,1,False,0,8.33,Normal
+15,1.05,0,27,130,1,False,0,4.97,Normal
+30,2.93,1,34,99,1,False,0,12.26,Normal
+18,0.44,1,38,200,1,False,0,5.58,Normal
+5,3.31,1,33,123,1,False,0,10.18,Normal
+8,3.02,1,33,148,1,False,0,5.62,Normal
+28,1.03,0,43,108,1,False,0,7.28,Normal
+24,2.46,1,29,120,1,False,0,7.4,Normal
+27,2.06,0,55,155,1,False,0,8.6,Normal
+10,1.27,0,28,188,1,False,0,3.82,Normal
+18,1.29,1,53,174,1,False,0,9.04,Normal
+30,0.7,0,41,135,1,False,0,6.4,Normal
+14,3.29,0,31,236,1,False,0,10.09,Normal
+11,2.65,0,54,229,1,False,0,10.4,Normal
+27,1.66,0,47,124,1,False,0,5.21,Normal
+30,1.48,0,43,94,1,False,0,11.07,Normal
+11,2.66,0,55,118,1,False,0,8.31,Normal
+15,2.85,0,56,224,1,False,0,13.24,Normal
+9,2.05,1,50,90,1,False,0,13.95,Normal
+14,3.2,1,50,245,1,False,0,15.89,Normal
+22,0.23,1,57,248,1,False,0,28.25,Normal
+19,3.29,1,59,174,1,False,0,20.9,Normal
+24,1.16,1,60,91,1,False,0,27.28,Normal
+22,3.1,1,32,117,1,False,0,6.62,Normal
+10,3.29,0,38,217,1,False,0,8.62,Normal
+17,0.71,0,56,95,1,False,0,14.04,Normal
+27,2.53,1,42,221,1,False,0,9.61,Normal
+10,1.05,1,45,145,1,False,0,5.43,Normal
+7,0.57,1,33,82,1,False,0,12.73,Normal
+21,2.03,1,39,138,1,False,0,4.52,Normal
+13,1.46,0,35,156,1,False,0,0.68,Normal
+14,1.75,0,50,234,1,False,0,8.75,Normal
+12,0.83,0,54,119,1,False,0,6.38,Normal
+20,3.08,1,29,159,1,False,0,5.06,Normal
+7,2.22,1,55,152,1,False,0,11.82,Normal
+18,1.17,1,36,151,1,False,0,1.25,Normal
+18,0.66,1,54,159,1,False,0,12.27,Normal
+30,1.91,0,30,238,1,False,0,9.07,Normal
+16,0.71,0,33,188,1,False,0,3.93,Normal
+8,1.9,0,42,249,1,False,0,13.08,Normal
+22,2.95,1,38,110,1,False,0,7.22,Normal
+19,2.34,1,33,222,1,False,0,5.26,Normal
+12,2.8,1,28,226,1,False,0,11.35,Normal
+27,1.91,1,40,148,1,False,0,5.63,Normal
+15,1.8,1,29,166,1,False,0,2.93,Normal
+6,1.54,1,52,218,1,False,0,13.35,Normal
+28,1.57,0,49,144,1,False,0,6.13,Normal
+24,2.44,0,55,151,1,False,0,8.0,Normal
+17,3.27,0,58,154,1,False,0,14.65,Normal
+27,2.43,1,27,202,1,False,0,11.25,Normal
+18,0.61,1,49,206,1,False,0,8.95,Normal
+20,2.78,1,58,245,1,False,0,23.09,Normal
+12,0.55,1,53,235,1,False,0,15.52,Normal
+15,0.42,0,36,190,1,False,0,3.71,Normal
+12,3.37,0,45,164,1,False,0,5.23,Normal
+25,2.3,0,44,124,1,False,0,3.99,Normal
+7,2.55,1,49,121,1,False,0,10.79,Normal
+7,0.34,0,41,214,1,False,0,7.82,Normal
+10,0.39,0,35,127,1,False,0,4.55,Normal
+17,3.09,1,46,189,1,False,0,7.58,Normal
+26,0.84,0,39,226,1,False,0,6.23,Normal
+7,2.4,0,32,241,1,False,0,8.91,Normal
+8,1.89,1,31,228,1,False,0,9.04,Normal
+17,2.47,0,29,112,1,False,0,6.49,Normal
+14,2.12,1,53,214,1,False,0,10.07,Normal
+9,3.11,0,25,160,1,False,0,7.05,Normal
+16,2.09,1,25,153,1,False,0,6.61,Normal
+23,1.59,0,35,110,1,False,0,3.66,Normal
+5,1.51,1,34,185,1,False,0,4.83,Normal
+5,0.78,1,36,113,1,False,0,10.28,Normal
+10,2.19,0,60,180,1,False,0,18.79,Normal
+8,0.38,1,45,133,1,False,0,9.12,Normal
+21,3.21,1,55,167,1,False,0,13.97,Normal
+21,0.25,0,49,224,1,False,0,10.97,Normal
+29,2.6,0,48,236,1,False,0,11.74,Normal
+30,2.55,0,26,112,1,False,0,12.59,Normal
+6,2.26,0,29,179,1,False,0,5.3,Normal
+22,0.46,1,38,145,1,False,0,4.39,Normal
+17,3.1,0,48,246,1,False,0,9.51,Normal
+18,1.0,1,25,94,1,False,0,12.6,Normal
+6,1.88,0,52,187,1,False,0,7.73,Normal
+12,1.0,0,42,128,1,False,0,2.8,Normal
+10,0.64,0,28,247,1,False,0,11.42,Normal
+21,2.22,1,42,110,1,False,0,6.83,Normal
+28,1.47,0,42,184,1,False,0,4.36,Normal
+30,1.5,1,21,86,1,False,0,21.7,Normal
+7,1.69,0,28,162,1,False,0,3.13,Normal
+28,2.57,0,20,156,1,False,0,11.89,Normal
+27,1.7,1,59,101,1,False,0,23.36,Normal
+22,1.64,0,46,106,1,False,0,5.09,Normal
+9,0.44,1,34,159,1,False,0,4.18,Normal
+21,2.1,1,41,223,1,False,0,6.32,Normal
+14,3.22,0,56,207,1,False,0,12.76,Normal
+25,1.02,0,23,136,1,False,0,6.37,Normal
+22,2.65,0,58,107,1,False,0,17.04,Normal
+11,0.63,1,59,175,1,False,0,19.84,Normal
+8,1.82,0,36,198,1,False,0,3.19,Normal
+11,2.44,1,59,249,1,False,0,26.58,Normal
+23,1.39,0,53,107,1,False,0,9.02,Normal
+27,3.5,0,27,101,1,False,0,14.48,Normal
+23,2.95,0,44,82,1,False,0,12.68,Normal
+6,1.85,1,49,165,1,False,0,8.17,Normal
+24,0.39,0,36,183,1,False,0,3.31,Normal
+5,3.38,1,46,152,1,False,0,10.93,Normal
+29,2.48,1,59,152,1,False,0,21.15,Normal
+30,0.38,1,28,250,1,False,0,19.3,Normal
+11,1.57,1,31,238,1,False,0,9.02,Normal
+12,3.08,1,60,217,1,False,0,23.5,Normal
+16,2.53,0,34,155,1,False,0,1.14,Normal
+15,3.21,1,46,130,1,False,0,10.16,Normal
+27,3.21,0,57,140,1,False,0,14.58,Normal
+13,1.26,0,31,177,1,False,0,2.83,Normal
+12,1.44,1,32,90,1,False,0,8.15,Normal
+16,2.7,1,27,208,1,False,0,10.82,Normal
+12,2.8,0,22,227,1,False,0,12.69,Normal
+21,0.75,0,35,114,1,False,0,4.69,Normal
+12,2.5,1,45,216,1,False,0,6.97,Normal
+15,1.43,1,38,198,1,False,0,5.23,Normal
+29,2.05,1,28,176,1,False,0,8.47,Normal
+23,2.56,1,49,226,1,False,0,10.56,Normal
+28,0.83,0,39,222,1,False,0,6.78,Normal
+9,1.93,0,33,182,1,False,0,1.61,Normal
+5,0.25,0,52,85,1,False,0,20.34,Normal
+16,1.58,0,59,244,1,False,0,20.71,Normal
+27,1.76,1,34,156,1,False,0,3.53,Normal
+27,2.47,0,41,179,1,False,0,3.16,Normal
+17,0.65,1,23,216,1,False,0,12.75,Normal
+19,2.59,0,20,230,1,False,0,14.19,Normal
+21,2.66,0,25,153,1,False,0,5.61,Normal
+7,2.67,1,51,243,1,False,0,16.65,Normal
+6,3.38,0,20,115,1,False,0,17.72,Normal
+10,1.8,1,51,142,1,False,0,7.41,Normal
+8,2.0,0,31,88,1,False,0,9.5,Normal
+27,2.63,1,53,213,1,False,0,14.2,Normal
+9,0.89,1,40,181,1,False,0,5.28,Normal
+22,1.32,1,28,121,1,False,0,7.51,Normal
+23,0.47,0,40,220,1,False,0,5.59,Normal
+25,0.54,1,45,127,1,False,0,7.09,Normal
+28,2.59,1,50,113,1,False,0,13.65,Normal
+8,3.4,1,26,144,1,False,0,13.81,Normal
+9,3.33,1,60,238,1,False,0,29.79,Normal
+25,0.7,0,49,237,1,False,0,11.12,Normal
+22,3.48,0,54,122,1,False,0,12.02,Normal
+11,2.21,0,46,92,1,False,0,9.73,Normal
+18,2.18,1,59,196,1,False,0,16.95,Normal
+21,1.89,0,27,146,1,False,0,2.77,Normal
+14,1.28,0,27,103,1,False,0,8.47,Normal
+15,0.51,1,41,222,1,False,0,7.79,Normal
+13,1.56,0,30,184,1,False,0,2.4,Normal
+14,2.29,1,29,176,1,False,0,4.87,Normal
+9,3.47,1,23,162,1,False,0,13.34,Normal
+10,1.26,1,39,105,1,False,0,7.88,Normal
+29,3.14,1,31,158,1,False,0,9.27,Normal
+20,2.37,0,28,84,1,False,0,10.63,Normal
+9,3.34,0,40,167,1,False,0,5.11,Normal
+14,2.99,0,25,127,1,False,0,7.39,Normal
+27,0.73,0,55,107,1,False,0,11.88,Normal
+11,2.96,0,49,99,1,False,0,8.45,Normal
+28,0.57,1,44,211,1,False,0,9.58,Normal
+29,1.44,0,45,148,1,False,0,6.49,Normal
+9,2.32,1,36,114,1,False,0,6.76,Normal
+14,1.17,1,54,246,1,False,0,15.7,Normal
+22,1.3,0,43,184,1,False,0,1.58,Normal
+25,2.56,1,58,122,1,False,0,18.55,Normal
+15,1.13,1,25,187,1,False,0,8.67,Normal
+30,3.47,1,60,114,1,False,0,32.56,Normal
+6,1.2,0,35,96,1,False,0,9.12,Normal
+20,3.28,0,47,200,1,False,0,7.71,Normal
+20,2.08,1,35,103,1,False,0,5.67,Normal
+5,1.83,1,35,102,1,False,0,9.87,Normal
+5,2.15,0,26,182,1,False,0,7.58,Normal
+30,3.24,0,39,168,1,False,0,7.67,Normal
+5,2.19,0,29,99,1,False,0,9.29,Normal
+30,3.23,1,35,168,1,False,0,10.86,Normal
+6,1.68,0,25,134,1,False,0,6.52,Normal
+6,2.93,1,44,163,1,False,0,7.06,Normal
+11,3.16,0,52,224,1,False,0,10.47,Normal
+6,1.4,1,38,244,1,False,0,14.12,Normal
+25,0.7,0,44,200,1,False,0,4.36,Normal
+22,3.43,0,46,124,1,False,0,8.6,Normal
+30,3.1,0,36,213,1,False,0,7.69,Normal
+5,0.45,0,55,147,1,False,0,12.34,Normal
+25,0.33,1,33,88,1,False,0,15.47,Normal
+24,2.06,0,37,91,1,False,0,6.33,Normal
+29,0.78,0,33,121,1,False,0,7.78,Normal
+18,2.67,1,21,133,1,False,0,11.01,Normal
+29,1.35,1,57,249,1,False,0,27.11,Normal
+10,3.08,1,27,100,1,False,0,13.17,Normal
+13,3.04,0,31,226,1,False,0,8.09,Normal
+29,2.22,1,24,81,1,False,0,21.96,Normal
+25,3.2,1,34,134,1,False,0,7.7,Normal
+18,3.12,1,37,211,1,False,0,8.27,Normal
+21,1.83,0,29,167,1,False,0,1.23,Normal
+21,3.27,0,41,94,1,False,0,9.37,Normal
+21,0.39,0,31,219,1,False,0,7.18,Normal
+17,1.6,1,32,162,1,False,0,1.59,Normal
+8,1.2,0,41,215,1,False,0,6.19,Normal
+9,0.43,1,38,138,1,False,0,6.9,Normal
+5,0.49,1,44,171,1,False,0,8.56,Normal
+19,0.27,0,47,109,1,False,0,8.66,Normal
+18,2.63,1,46,206,1,False,0,7.23,Normal
+16,3.36,1,48,101,1,False,0,12.8,Normal
+20,2.3,0,23,234,1,False,0,9.56,Normal
+8,3.21,0,52,234,1,False,0,14.92,Normal
+8,2.4,0,58,151,1,False,0,13.4,Normal
+13,0.34,0,24,101,1,False,0,12.7,Normal
+15,0.92,1,57,221,1,False,0,15.03,Normal
+7,1.25,0,37,89,1,False,0,9.88,Normal
+30,2.75,1,51,141,1,False,0,14.24,Normal
+7,0.41,1,52,124,1,False,0,12.43,Normal
+7,2.85,0,46,187,1,False,0,7.41,Normal
+20,0.7,1,50,219,1,False,0,9.64,Normal
+6,3.1,1,47,126,1,False,0,10.69,Normal
+24,2.74,0,24,117,1,False,0,8.96,Normal
+20,1.71,0,22,151,1,False,0,4.6,Normal
+18,2.73,1,36,161,1,False,0,2.31,Normal
+13,2.46,0,48,196,1,False,0,4.28,Normal
+8,1.79,0,56,226,1,False,0,13.08,Normal
+18,2.79,1,42,172,1,False,0,4.96,Normal
+22,1.82,1,23,223,1,False,0,11.22,Normal
+30,3.45,0,55,191,1,False,0,16.02,Normal
+11,1.59,1,40,185,1,False,0,3.9,Normal
+25,2.69,1,39,124,1,False,0,6.65,Normal
+19,2.28,1,50,244,1,False,0,12.56,Normal
+27,0.84,1,35,242,1,False,0,12.88,Normal
+25,0.23,0,44,189,1,False,0,7.88,Normal
+21,2.36,0,45,125,1,False,0,2.97,Normal
+20,3.15,0,20,112,1,False,0,13.49,Normal
+22,1.06,0,22,175,1,False,0,6.34,Normal
+24,2.01,1,57,86,1,False,0,21.46,Normal
+29,0.8,0,54,158,1,False,0,12.21,Normal
+11,0.84,0,37,206,1,False,0,3.75,Normal
+9,2.26,0,31,207,1,False,0,4.39,Normal
+26,1.98,0,20,236,1,False,0,14.76,Normal
+15,0.51,1,23,172,1,False,0,11.21,Normal
+23,3.16,1,24,184,1,False,0,11.48,Normal
+16,2.99,1,39,146,1,False,0,5.0,Normal
+10,0.52,1,21,107,1,False,0,14.62,Normal
+29,1.42,1,41,183,1,False,0,8.5,Normal
+22,0.74,1,38,145,1,False,0,3.53,Normal
+10,2.08,0,43,160,1,False,0,1.16,Normal
+30,2.41,1,59,185,1,False,0,22.33,Normal
+21,3.2,1,21,85,1,False,0,19.45,Normal
+6,1.39,0,50,137,1,False,0,7.66,Normal
+12,1.48,0,35,167,1,False,0,0.58,Normal
+21,2.85,1,53,110,1,False,0,12.86,Normal
+25,1.05,0,23,171,1,False,0,6.24,Normal
+13,0.74,1,43,124,1,False,0,4.79,Normal
+13,2.33,1,53,202,1,False,0,9.3,Normal
+19,3.47,0,43,170,1,False,0,5.34,Normal
+5,2.93,0,38,226,1,False,0,10.2,Normal
+23,2.03,0,47,231,1,False,0,7.29,Normal
+5,3.09,1,57,185,1,False,0,17.24,Normal
+13,1.31,0,37,171,1,False,0,0.53,Normal
+27,2.29,0,23,92,1,False,0,13.4,Normal
+18,1.88,0,28,203,1,False,0,3.43,Normal
+11,1.08,1,23,157,1,False,0,7.41,Normal
+13,1.66,1,48,188,1,False,0,5.93,Normal
+9,2.18,0,55,112,1,False,0,9.39,Normal
+27,3.11,0,60,88,1,False,0,30.64,Normal
+14,2.44,1,45,145,1,False,0,4.46,Normal
+9,2.25,1,32,184,1,False,0,3.76,Normal
+18,0.97,0,60,237,1,False,0,25.32,Normal
+15,2.12,0,24,191,1,False,0,6.92,Normal
+8,0.4,1,34,130,1,False,0,7.7,Normal
+24,2.92,0,21,204,1,False,0,11.9,Normal
+26,0.23,0,21,243,1,False,0,19.41,Normal
+25,1.42,0,23,201,1,False,0,7.54,Normal
+13,2.52,0,43,128,1,False,0,2.61,Normal
+23,2.13,1,32,97,1,False,0,7.21,Normal
+21,2.9,0,25,138,1,False,0,7.22,Normal
+26,2.73,0,44,174,1,False,0,4.95,Normal
+18,3.22,1,31,178,1,False,0,7.49,Normal
+10,2.22,0,44,193,1,False,0,3.09,Normal
+8,0.73,0,20,181,1,False,0,13.69,Normal
+17,3.23,0,24,155,1,False,0,8.25,Normal
+13,2.08,0,41,105,1,False,0,3.95,Normal
+19,0.38,1,26,175,1,False,0,9.08,Normal
+21,3.09,0,56,232,1,False,0,14.7,Normal
+18,3.27,1,43,241,1,False,0,13.22,Normal
+21,3.47,1,49,203,1,False,0,14.6,Normal
+17,2.04,1,37,217,1,False,0,6.49,Normal
+29,1.55,1,26,204,1,False,0,11.65,Normal
+15,0.84,1,38,177,1,False,0,3.7,Normal
+19,1.43,1,32,91,1,False,0,7.68,Normal
+19,1.92,1,36,99,1,False,0,5.06,Normal
+8,2.77,0,54,195,1,False,0,9.57,Normal
+5,2.23,1,30,163,1,False,0,5.52,Normal
+10,1.65,1,41,157,1,False,0,2.62,Normal
+9,1.37,0,44,216,1,False,0,5.98,Normal
+14,3.36,1,59,221,1,False,0,22.85,Normal
+19,1.79,1,57,183,1,False,0,12.32,Normal
+9,2.11,0,46,101,1,False,0,7.22,Normal
+13,1.14,0,59,201,1,False,0,15.97,Normal
+30,0.37,1,58,124,1,False,0,27.03,Normal
+9,2.35,0,60,160,1,False,0,19.04,Normal
+30,1.5,1,59,89,1,False,0,29.09,Normal
+24,2.51,0,30,188,1,False,0,3.9,Normal
+19,3.17,0,36,222,1,False,0,5.73,Normal
+6,2.19,1,25,181,1,False,0,10.81,Normal
+10,0.26,1,53,124,1,False,0,13.54,Normal
+18,2.36,1,60,221,1,False,0,21.51,Normal
+13,2.34,1,45,157,1,False,0,2.83,Normal
+9,2.62,0,46,239,1,False,0,9.63,Normal
+20,0.74,1,29,210,1,False,0,7.1,Normal
+20,0.94,1,56,113,1,False,0,15.28,Normal
+6,1.66,1,60,106,1,False,0,26.1,Normal
+20,2.01,1,57,148,1,False,0,12.97,Normal
+7,0.51,1,37,200,1,False,0,8.34,Normal
+7,2.79,1,31,84,1,False,0,14.47,Normal
+9,3.41,0,40,116,1,False,0,9.82,Normal
+11,3.49,0,53,212,1,False,0,11.16,Normal
+12,1.31,0,55,196,1,False,0,7.12,Normal
+11,2.33,1,60,81,1,False,0,28.8,Normal
+6,1.45,0,28,158,1,False,0,3.78,Normal
+10,2.7,0,47,178,1,False,0,4.95,Normal
+26,1.68,0,27,84,1,False,0,13.19,Normal
+14,3.43,0,53,181,1,False,0,8.53,Normal
+15,2.4,1,33,166,1,False,0,1.91,Normal
+22,2.15,1,27,93,1,False,0,13.7,Normal
+10,1.81,0,29,188,1,False,0,3.14,Normal
+12,0.31,1,54,98,1,False,0,17.81,Normal
+12,1.14,1,36,174,1,False,0,3.45,Normal
+12,1.03,1,59,117,1,False,0,18.0,Normal
+22,1.28,0,40,121,1,False,0,2.57,Normal
+10,2.47,0,55,117,1,False,0,7.66,Normal
+17,0.29,0,24,132,1,False,0,8.79,Normal
+22,1.83,1,43,149,1,False,0,3.58,Normal
+6,2.58,1,54,232,1,False,0,17.49,Normal
+16,1.4,1,29,153,1,False,0,3.5,Normal
+11,1.73,1,31,177,1,False,0,3.34,Normal
+26,3.0,1,26,119,1,False,0,12.8,Normal
+21,0.74,1,60,229,1,False,0,27.45,Normal
+27,3.36,1,52,163,1,False,0,13.39,Normal
+26,0.28,1,44,100,1,False,0,13.69,Normal
+26,0.25,1,46,154,1,False,0,11.4,Normal
+18,3.07,1,59,104,1,False,0,21.59,Normal
+22,0.59,1,58,97,1,False,0,22.63,Normal
+21,3.25,1,51,186,1,False,0,12.32,Normal
+20,0.71,0,46,162,1,False,0,2.42,Normal
+20,0.85,1,33,143,1,False,0,2.86,Normal
+7,2.68,0,40,116,1,False,0,8.05,Normal
+11,3.11,1,43,90,1,False,0,12.66,Normal
+5,2.09,1,39,112,1,False,0,11.44,Normal
+29,1.89,0,26,167,1,False,0,6.05,Normal
+16,1.0,1,26,192,1,False,0,9.05,Normal
+24,0.58,0,22,95,1,False,0,12.93,Normal
+29,2.84,1,57,138,1,False,0,21.92,Normal
+29,2.45,0,36,239,1,False,0,7.66,Normal
+30,2.21,0,36,123,1,False,0,5.67,Normal
+15,2.37,0,28,190,1,False,0,4.22,Normal
+8,3.2,1,28,219,1,False,0,13.84,Normal
+17,2.0,0,59,94,1,False,0,22.03,Normal
+9,3.39,1,39,92,1,False,0,15.5,Normal
+21,2.55,1,58,202,1,False,0,16.97,Normal
+8,3.49,1,31,133,1,False,0,11.03,Normal
+17,3.2,0,29,241,1,False,0,9.81,Normal
+30,2.98,0,56,230,1,False,0,18.13,Normal
+9,3.39,0,36,107,1,False,0,9.17,Normal
+11,3.3,1,60,102,1,False,0,26.78,Normal
+16,1.39,1,25,212,1,False,0,10.11,Normal
+5,2.56,0,31,248,1,False,0,11.45,Normal
+20,2.09,1,31,146,1,False,0,2.62,Normal
+9,1.77,0,59,88,1,False,0,23.43,Normal
+18,1.61,0,44,187,1,False,0,1.54,Normal
+30,2.27,1,31,245,1,False,0,15.04,Normal
+5,0.46,1,37,246,1,False,0,15.25,Normal
+8,2.08,0,49,193,1,False,0,6.95,Normal
+17,1.18,0,27,130,1,False,0,4.61,Normal
+14,1.67,0,49,130,1,False,0,3.38,Normal
+10,2.57,0,49,223,1,False,0,7.77,Normal
+14,0.81,0,38,151,1,False,0,0.56,Normal
+20,1.51,0,56,103,1,False,0,12.58,Normal
+29,2.34,0,49,212,1,False,0,9.4,Normal
+30,0.57,0,25,170,1,False,0,8.81,Normal
+29,1.07,1,50,216,1,False,0,14.13,Normal
+15,2.17,1,49,184,1,False,0,6.87,Normal
+18,2.21,0,34,210,1,False,0,2.39,Normal
+8,3.15,1,41,121,1,False,0,9.09,Normal
+18,2.87,1,49,192,1,False,0,9.28,Normal
+6,0.71,1,50,189,1,False,0,11.16,Normal
+6,3.0,1,22,192,1,False,0,15.05,Normal
+28,1.24,0,22,128,1,False,0,9.91,Normal
+22,1.45,0,45,205,1,False,0,2.98,Normal
+13,2.34,0,36,175,1,False,0,0.92,Normal
+19,0.32,1,54,250,1,False,0,21.58,Normal
+15,1.23,1,44,130,1,False,0,5.73,Normal
+22,0.27,0,22,235,1,False,0,14.95,Normal
+22,0.86,1,23,125,1,False,0,9.48,Normal
+10,1.81,0,22,159,1,False,0,5.72,Normal
+18,2.38,0,35,135,1,False,0,1.42,Normal
+7,0.54,0,37,192,1,False,0,4.88,Normal
+27,2.07,0,35,132,1,False,0,2.48,Normal
+19,2.18,0,43,166,1,False,0,0.55,Normal
+14,1.49,1,23,92,1,False,0,13.83,Normal
+6,2.82,1,54,120,1,False,0,14.24,Normal
+25,2.0,1,37,99,1,False,0,7.07,Normal
+11,0.56,0,57,171,1,False,0,12.11,Normal
+25,1.51,1,59,105,1,False,0,20.55,Normal
+19,0.97,1,30,144,1,False,0,3.47,Normal
+8,2.51,1,31,173,1,False,0,6.13,Normal
+6,0.72,0,33,178,1,False,0,5.32,Normal
+26,2.28,0,51,214,1,False,0,7.85,Normal
+9,1.45,1,35,234,1,False,0,8.38,Normal
+25,1.79,1,43,125,1,False,0,5.47,Normal
+16,3.3,0,51,190,1,False,0,7.38,Normal
+6,0.5,0,46,86,1,False,0,15.17,Normal
+18,2.64,1,32,89,1,False,0,10.05,Normal
+8,0.68,0,23,208,1,False,0,11.1,Normal
+6,3.13,0,45,154,1,False,0,6.93,Normal
+15,0.74,1,38,170,1,False,0,3.51,Normal
+5,3.28,1,52,163,1,False,0,12.6,Normal
+5,1.31,0,56,80,1,False,0,19.85,Normal
+25,2.39,1,21,121,1,False,0,12.45,Normal
+16,2.98,1,44,102,1,False,0,8.32,Normal
+8,3.3,1,50,215,1,False,0,15.59,Normal
+28,2.35,0,53,96,1,False,0,14.58,Normal
+20,1.9,0,45,247,1,False,0,7.1,Normal
+17,1.0,0,38,130,1,False,0,0.97,Normal
+29,1.55,0,60,129,1,False,0,23.81,Normal
+26,3.4,0,48,110,1,False,0,11.03,Normal
+10,0.85,1,46,237,1,False,0,10.78,Normal
+10,0.55,1,34,201,1,False,0,5.83,Normal
+18,0.31,0,27,95,1,False,0,13.14,Normal
+13,2.32,1,58,250,1,False,0,22.24,Normal
+7,0.86,1,22,109,1,False,0,13.16,Normal
+13,2.22,0,59,241,1,False,0,20.47,Normal
+7,1.85,0,21,144,1,False,0,7.93,Normal
+13,1.37,1,46,234,1,False,0,9.55,Normal
+5,2.57,1,40,203,1,False,0,10.15,Normal
+27,0.76,0,37,187,1,False,0,3.24,Normal
+19,0.2,1,60,105,1,False,0,30.22,Normal
+9,1.86,1,23,144,1,False,0,7.54,Normal
+22,1.95,0,25,86,1,False,0,12.11,Normal
+19,2.33,1,53,207,1,False,0,9.9,Normal
+14,2.78,1,52,232,1,False,0,14.27,Normal
+8,3.4,0,45,132,1,False,0,9.71,Normal
+17,2.18,0,52,236,1,False,0,9.9,Normal
+13,1.77,0,53,134,1,False,0,4.35,Normal
+6,2.98,1,53,150,1,False,0,11.31,Normal
+16,3.08,1,40,178,1,False,0,6.27,Normal
+20,0.88,0,43,184,1,False,0,1.72,Normal
+5,2.72,1,40,194,1,False,0,9.27,Normal
+9,1.73,1,21,167,1,False,0,8.63,Normal
+27,2.0,1,36,200,1,False,0,6.34,Normal
+6,1.02,0,33,238,1,False,0,10.14,Normal
+13,0.47,1,22,222,1,False,0,14.39,Normal
+9,2.56,1,37,94,1,False,0,10.76,Normal
+26,3.18,1,45,120,1,False,0,9.77,Normal
+16,3.13,0,37,162,1,False,0,2.5,Normal
+23,0.94,0,21,224,1,False,0,12.69,Normal
+28,1.1,0,58,86,1,False,0,22.82,Normal
+15,0.42,0,46,246,1,False,0,10.5,Normal
+18,1.9,1,49,183,1,False,0,5.62,Normal
+11,1.54,0,30,208,1,False,0,4.54,Normal
+9,2.86,1,43,98,1,False,0,9.94,Normal
+29,2.14,0,58,174,1,False,0,15.43,Normal
+20,1.25,1,41,113,1,False,0,5.67,Normal
+24,0.87,0,50,122,1,False,0,5.27,Normal
+29,0.37,0,36,221,1,False,0,8.58,Normal
+25,1.88,1,48,198,1,False,0,6.89,Normal
+20,0.38,0,34,220,1,False,0,5.42,Normal
+23,0.9,1,54,235,1,False,0,16.47,Normal
+20,3.41,0,56,234,1,False,0,17.22,Normal
+5,1.31,0,25,228,1,False,0,12.54,Normal
+27,0.26,0,44,193,1,False,0,8.07,Normal
+5,2.44,0,55,148,1,False,0,9.99,Normal
+19,2.28,1,25,224,1,False,0,10.75,Normal
+23,1.38,1,26,166,1,False,0,6.31,Normal
+20,1.11,1,51,183,1,False,0,7.86,Normal
+18,2.79,0,32,187,1,False,0,4.11,Normal
+29,2.76,1,26,89,1,False,0,20.94,Normal
+7,2.82,0,50,103,1,False,0,10.8,Normal
+9,2.47,1,59,119,1,False,0,19.01,Normal
+7,1.36,1,56,184,1,False,0,14.47,Normal
+15,1.29,1,52,141,1,False,0,8.56,Normal
+25,0.29,1,36,203,1,False,0,8.3,Normal
+28,3.48,0,56,86,1,False,0,24.12,Normal
+10,0.56,1,23,90,1,False,0,16.53,Normal
+12,2.38,0,28,119,1,False,0,5.01,Normal
+28,0.96,0,25,136,1,False,0,8.67,Normal
+26,2.09,1,23,221,1,False,0,12.9,Normal
+23,2.53,1,28,171,1,False,0,7.14,Normal
+22,3.0,0,41,107,1,False,0,4.97,Normal
+7,3.47,1,29,133,1,False,0,12.49,Normal
+5,3.31,1,54,88,1,False,0,22.53,Normal
+11,1.85,0,20,127,1,False,0,8.78,Normal
+25,0.47,0,25,112,1,False,0,11.22,Normal
+23,1.17,0,54,200,1,False,0,7.08,Normal
+24,0.62,0,32,153,1,False,0,2.98,Normal
+26,1.65,0,36,142,1,False,0,0.56,Normal
+22,1.36,0,58,109,1,False,0,15.44,Normal
+20,2.98,0,52,160,1,False,0,5.4,Normal
+22,1.39,0,35,95,1,False,0,5.34,Normal
+8,3.33,0,33,126,1,False,0,7.73,Normal
+29,0.67,1,47,221,1,False,0,12.58,Normal
+26,1.35,0,39,142,1,False,0,2.21,Normal
+12,1.21,1,58,213,1,False,0,16.46,Normal
+27,3.16,1,60,128,1,False,0,25.96,Normal
+8,2.11,1,53,198,1,False,0,11.13,Normal
+6,1.55,0,52,173,1,False,0,6.81,Normal
+7,1.15,0,30,197,1,False,0,5.75,Normal
+19,1.92,1,22,94,1,False,0,13.59,Normal
+11,2.52,1,25,236,1,False,0,15.15,Normal
+7,0.72,1,51,216,1,False,0,13.12,Normal
+805,92.21,0,5,192,6,False,1,75.11,Token Theft
+598,81.84,0,2,268,6,False,1,77.42,Token Theft
+899,167.79,0,5,225,7,False,1,89.32,Token Theft
+647,169.06,1,1,276,8,False,1,85.29,Token Theft
+708,92.94,0,4,206,3,False,1,65.6,Token Theft
+591,106.52,1,3,287,8,False,1,81.66,Token Theft
+674,111.87,1,5,186,8,False,1,77.85,Token Theft
+507,223.18,2,5,215,3,False,1,66.88,Token Theft
+850,87.34,2,2,145,7,False,1,89.36,Token Theft
+669,111.21,2,3,230,6,False,1,71.1,Token Theft
+804,242.81,1,4,225,8,False,1,85.26,Token Theft
+861,105.92,2,2,104,4,False,1,88.44,Token Theft
+512,82.02,2,1,220,3,False,1,66.83,Token Theft
+897,125.47,2,3,242,7,False,1,86.74,Token Theft
+898,86.25,1,1,299,4,False,1,93.53,Token Theft
+524,161.84,1,4,168,8,False,1,72.99,Token Theft
+630,212.83,1,1,151,7,False,1,77.65,Token Theft
+788,97.28,0,3,249,7,False,1,82.78,Token Theft
+797,168.6,0,3,188,3,False,1,62.55,Token Theft
+557,201.61,2,3,110,8,False,1,87.32,Token Theft
+537,148.43,1,4,239,7,False,1,69.62,Token Theft
+644,240.26,2,2,226,3,False,1,71.7,Token Theft
+702,215.74,1,3,215,4,False,1,60.56,Token Theft
+620,201.55,2,4,286,6,False,1,74.35,Token Theft
+886,122.06,1,5,224,7,False,1,82.7,Token Theft
+871,185.81,0,2,203,7,False,1,85.0,Token Theft
+798,170.8,0,2,250,6,False,1,75.55,Token Theft
+730,246.25,0,5,291,7,False,1,89.72,Token Theft
+892,140.71,1,3,174,8,False,1,87.45,Token Theft
+617,170.78,2,3,129,8,False,1,80.42,Token Theft
+567,90.99,2,1,186,3,False,1,69.11,Token Theft
+517,174.4,1,1,265,3,False,1,65.88,Token Theft
+705,219.41,1,4,207,5,False,1,63.03,Token Theft
+507,231.39,2,1,275,3,False,1,73.57,Token Theft
+845,142.17,2,1,135,6,False,1,85.24,Token Theft
+799,139.8,0,1,209,7,False,1,84.51,Token Theft
+646,174.36,1,3,107,8,False,1,82.99,Token Theft
+831,229.23,2,3,163,3,False,1,75.66,Token Theft
+808,226.11,0,3,155,4,False,1,74.48,Token Theft
+506,88.63,0,2,166,6,False,1,72.47,Token Theft
+536,149.46,1,3,279,8,False,1,79.66,Token Theft
+714,193.39,2,3,257,5,False,1,70.06,Token Theft
+574,180.05,0,2,231,4,False,1,60.79,Token Theft
+605,248.13,2,3,266,3,False,1,72.52,Token Theft
+542,186.37,0,1,155,7,False,1,78.72,Token Theft
+896,95.87,0,4,169,3,False,1,81.83,Token Theft
+593,195.16,1,4,213,4,False,1,56.34,Token Theft
+777,81.5,2,1,227,4,False,1,74.38,Token Theft
+745,198.25,0,5,100,5,False,1,76.92,Token Theft
+769,139.89,1,5,274,3,False,1,73.95,Token Theft
+752,175.97,0,5,138,4,False,1,67.69,Token Theft
+721,115.06,1,4,291,7,False,1,79.36,Token Theft
+877,104.08,0,2,197,8,False,1,92.78,Token Theft
+898,102.03,0,5,100,7,False,1,100.0,Token Theft
+644,177.74,1,3,183,3,False,1,57.28,Token Theft
+645,205.78,2,4,278,4,False,1,68.21,Token Theft
+816,174.33,1,2,209,5,False,1,68.24,Token Theft
+641,190.96,1,3,185,3,False,1,57.65,Token Theft
+530,191.83,1,2,109,4,False,1,70.77,Token Theft
+636,171.11,0,1,285,3,False,1,69.25,Token Theft
+671,116.85,1,4,127,4,False,1,66.0,Token Theft
+758,144.7,0,1,141,4,False,1,71.61,Token Theft
+507,155.93,0,3,123,4,False,1,62.94,Token Theft
+741,106.87,1,2,183,7,False,1,73.45,Token Theft
+509,207.11,1,3,124,5,False,1,69.32,Token Theft
+900,245.71,0,2,182,6,False,1,95.92,Token Theft
+589,89.95,0,5,102,8,False,1,89.52,Token Theft
+557,225.97,1,1,135,5,False,1,75.5,Token Theft
+893,107.77,2,3,267,3,False,1,84.78,Token Theft
+861,102.94,2,1,265,7,False,1,92.08,Token Theft
+782,169.2,2,1,221,8,False,1,85.84,Token Theft
+621,238.42,0,2,255,7,False,1,80.29,Token Theft
+608,193.74,2,3,147,4,False,1,64.31,Token Theft
+650,152.08,1,4,202,4,False,1,57.39,Token Theft
+624,120.65,2,4,135,6,False,1,70.21,Token Theft
+705,219.48,1,2,191,5,False,1,65.79,Token Theft
+671,185.22,1,2,242,7,False,1,72.01,Token Theft
+754,144.96,2,2,293,4,False,1,75.64,Token Theft
+611,245.12,2,4,165,3,False,1,71.08,Token Theft
+592,197.07,0,1,108,8,False,1,90.82,Token Theft
+564,204.58,0,5,225,8,False,1,76.27,Token Theft
+704,146.87,1,1,256,7,False,1,79.69,Token Theft
+756,142.18,0,5,133,6,False,1,74.52,Token Theft
+534,118.51,0,5,196,5,False,1,67.02,Token Theft
+851,108.74,2,3,249,5,False,1,79.47,Token Theft
+659,223.33,2,5,255,4,False,1,73.14,Token Theft
+727,168.64,2,3,114,5,False,1,75.06,Token Theft
+776,175.6,0,5,251,4,False,1,69.25,Token Theft
+759,136.75,0,3,146,8,False,1,82.38,Token Theft
+873,119.36,2,1,222,3,False,1,82.76,Token Theft
+648,96.09,1,1,143,6,False,1,76.53,Token Theft
+733,158.67,2,2,147,7,False,1,77.58,Token Theft
+798,216.22,1,3,153,7,False,1,74.87,Token Theft
+786,152.07,2,4,273,4,False,1,71.72,Token Theft
+631,126.73,0,3,167,8,False,1,74.52,Token Theft
+832,222.33,2,5,132,6,False,1,84.55,Token Theft
+792,212.27,2,3,124,5,False,1,74.73,Token Theft
+773,242.75,1,5,291,3,False,1,80.9,Token Theft
+576,152.07,1,2,236,3,False,1,63.83,Token Theft
+578,112.4,0,2,289,3,False,1,71.18,Token Theft
+33,3.27,0,48,4373,1,True,1,76.19,Prompt Injection
+77,5.56,0,54,5504,1,True,1,79.38,Prompt Injection
+96,4.48,0,23,4362,1,True,1,87.7,Prompt Injection
+42,2.4,0,35,4063,1,True,1,72.39,Prompt Injection
+35,5.09,0,41,4020,1,True,1,65.43,Prompt Injection
+39,4.99,0,25,4335,1,True,1,72.93,Prompt Injection
+50,6.75,0,20,5994,1,True,1,90.52,Prompt Injection
+47,3.37,0,50,3998,1,True,1,71.57,Prompt Injection
+54,8.76,0,52,3893,1,True,1,65.79,Prompt Injection
+34,2.08,0,20,5945,1,True,1,98.26,Prompt Injection
+92,6.99,0,41,5571,1,True,1,81.79,Prompt Injection
+45,5.83,0,40,4992,1,True,1,67.85,Prompt Injection
+32,8.07,0,23,3306,1,True,1,76.91,Prompt Injection
+71,6.45,0,59,5672,1,True,1,92.52,Prompt Injection
+37,8.02,0,57,5610,1,True,1,89.59,Prompt Injection
+76,6.4,0,34,4926,1,True,1,65.8,Prompt Injection
+94,9.71,0,55,3354,1,True,1,85.57,Prompt Injection
+83,8.96,0,27,4804,1,True,1,78.26,Prompt Injection
+74,2.62,0,47,5409,1,True,1,80.94,Prompt Injection
+37,3.58,0,52,4466,1,True,1,75.99,Prompt Injection
+53,4.19,0,30,3358,1,True,1,71.98,Prompt Injection
+80,9.09,0,34,5833,1,True,1,84.61,Prompt Injection
+99,8.48,0,34,3240,1,True,1,81.48,Prompt Injection
+48,6.45,0,52,5096,1,True,1,71.59,Prompt Injection
+30,8.23,0,53,4726,1,True,1,76.84,Prompt Injection
+45,8.71,0,25,5241,1,True,1,77.3,Prompt Injection
+57,7.55,0,59,5840,1,True,1,95.64,Prompt Injection
+74,2.9,0,54,3802,1,True,1,79.31,Prompt Injection
+58,6.52,0,53,3592,1,True,1,67.03,Prompt Injection
+79,7.11,0,47,4700,1,True,1,68.14,Prompt Injection
+62,8.16,0,40,3415,1,True,1,62.88,Prompt Injection
+67,9.21,0,58,3062,1,True,1,81.86,Prompt Injection
+62,6.34,0,50,3907,1,True,1,61.82,Prompt Injection
+50,9.98,0,38,5187,1,True,1,73.42,Prompt Injection
+53,9.55,0,22,5529,1,True,1,85.44,Prompt Injection
+79,3.63,0,40,5401,1,True,1,80.87,Prompt Injection
+88,7.02,0,34,4134,1,True,1,72.72,Prompt Injection
+46,8.24,0,24,5123,1,True,1,73.39,Prompt Injection
+72,4.29,0,44,4709,1,True,1,70.76,Prompt Injection
+73,6.37,0,36,4157,1,True,1,64.77,Prompt Injection
+98,6.57,0,20,3455,1,True,1,88.02,Prompt Injection
+30,6.1,0,28,4701,1,True,1,76.16,Prompt Injection
+51,8.03,0,34,3216,1,True,1,66.57,Prompt Injection
+84,5.73,0,41,5143,1,True,1,72.64,Prompt Injection
+92,6.95,0,43,4798,1,True,1,77.77,Prompt Injection
+86,7.7,0,46,3412,1,True,1,72.07,Prompt Injection
+35,8.82,0,28,5489,1,True,1,80.67,Prompt Injection
+44,4.91,0,26,5983,1,True,1,87.56,Prompt Injection
+63,6.49,0,31,5917,1,True,1,79.28,Prompt Injection
+74,8.68,0,39,4134,1,True,1,66.39,Prompt Injection
+81,6.85,0,39,5548,1,True,1,74.78,Prompt Injection
+37,6.61,0,38,4737,1,True,1,66.72,Prompt Injection
+89,9.44,0,58,5653,1,True,1,98.48,Prompt Injection
+68,4.2,0,42,3945,1,True,1,68.54,Prompt Injection
+61,9.95,0,36,3625,1,True,1,66.71,Prompt Injection
+86,9.9,0,56,4200,1,True,1,81.13,Prompt Injection
+33,8.65,0,45,4166,1,True,1,67.24,Prompt Injection
+85,8.27,0,46,3255,1,True,1,72.32,Prompt Injection
+53,7.4,0,41,5021,1,True,1,64.91,Prompt Injection
+39,5.78,0,47,3928,1,True,1,65.45,Prompt Injection
+40,2.56,0,51,5747,1,True,1,88.01,Prompt Injection
+59,5.18,0,32,3512,1,True,1,69.89,Prompt Injection
+41,5.11,0,54,4771,1,True,1,72.99,Prompt Injection
+81,8.08,0,29,3237,1,True,1,72.88,Prompt Injection
+87,2.36,0,44,4755,1,True,1,79.25,Prompt Injection
+47,7.28,0,21,4880,1,True,1,73.66,Prompt Injection
+45,2.42,0,54,4150,1,True,1,75.45,Prompt Injection
+69,8.67,0,56,4243,1,True,1,73.01,Prompt Injection
+48,7.12,0,29,4326,1,True,1,65.47,Prompt Injection
+74,5.79,0,50,5810,1,True,1,79.71,Prompt Injection
+66,2.06,0,52,5749,1,True,1,87.83,Prompt Injection
+59,9.58,0,24,3834,1,True,1,74.71,Prompt Injection
+46,9.21,0,46,4014,1,True,1,66.55,Prompt Injection
+66,8.33,0,49,5578,1,True,1,76.94,Prompt Injection
+78,6.7,0,23,5441,1,True,1,79.72,Prompt Injection
+77,7.91,0,27,5236,1,True,1,74.3,Prompt Injection
+64,8.23,0,32,5561,1,True,1,73.55,Prompt Injection
+36,4.88,0,56,3720,1,True,1,76.19,Prompt Injection
+47,5.22,0,29,3970,1,True,1,68.52,Prompt Injection
+66,8.34,0,48,3064,1,True,1,65.56,Prompt Injection
+86,3.05,0,45,3789,1,True,1,77.64,Prompt Injection
+90,6.92,0,27,3241,1,True,1,78.42,Prompt Injection
+35,7.82,0,40,4111,1,True,1,64.92,Prompt Injection
+78,5.28,0,47,4993,1,True,1,69.76,Prompt Injection
+44,9.35,0,52,4044,1,True,1,66.39,Prompt Injection
+38,7.24,0,24,3907,1,True,1,72.32,Prompt Injection
+100,8.89,0,51,3820,1,True,1,80.03,Prompt Injection
+32,9.2,0,21,3955,1,True,1,81.16,Prompt Injection
+87,5.85,0,27,4395,1,True,1,75.76,Prompt Injection
+39,6.9,0,43,5410,1,True,1,73.84,Prompt Injection
+65,8.5,0,37,5420,1,True,1,71.5,Prompt Injection
+50,2.07,0,29,4553,1,True,1,79.82,Prompt Injection
+55,6.93,0,58,5310,1,True,1,84.23,Prompt Injection
+76,9.06,0,54,3751,1,True,1,72.27,Prompt Injection
+42,6.25,0,50,3990,1,True,1,62.87,Prompt Injection
+35,4.44,0,32,3850,1,True,1,71.24,Prompt Injection
+100,9.33,0,36,5510,1,True,1,89.61,Prompt Injection
+40,8.17,0,56,3142,1,True,1,73.63,Prompt Injection
+60,8.91,0,28,5812,1,True,1,81.02,Prompt Injection
+81,2.35,0,53,4955,1,True,1,80.48,Prompt Injection
+598,355.7,0,48,147,1,False,1,63.62,Financial Abuse
+388,417.96,0,46,309,1,False,1,50.39,Financial Abuse
+594,319.61,0,56,438,1,False,1,75.18,Financial Abuse
+390,428.85,0,44,337,1,False,1,53.42,Financial Abuse
+371,398.43,0,40,344,1,False,1,53.43,Financial Abuse
+451,418.15,0,49,318,1,False,1,50.71,Financial Abuse
+505,367.16,0,39,264,1,False,1,44.72,Financial Abuse
+470,487.94,0,35,124,1,False,1,62.83,Financial Abuse
+426,579.62,0,44,454,1,False,1,79.67,Financial Abuse
+432,333.75,0,59,318,1,False,1,62.05,Financial Abuse
+493,411.66,0,58,132,1,False,1,64.31,Financial Abuse
+489,315.67,0,40,312,1,False,1,45.81,Financial Abuse
+315,501.47,0,55,201,1,False,1,72.05,Financial Abuse
+552,358.54,0,42,451,1,False,1,63.62,Financial Abuse
+449,568.11,0,38,147,1,False,1,71.94,Financial Abuse
+598,456.01,0,53,291,1,False,1,67.05,Financial Abuse
+373,384.95,0,52,196,1,False,1,56.88,Financial Abuse
+340,393.88,0,46,210,1,False,1,55.66,Financial Abuse
+335,458.13,0,36,370,1,False,1,62.58,Financial Abuse
+430,366.72,0,46,165,1,False,1,50.7,Financial Abuse
+509,479.54,0,51,298,1,False,1,55.13,Financial Abuse
+418,353.85,0,35,367,1,False,1,55.5,Financial Abuse
+347,499.53,0,40,108,1,False,1,67.9,Financial Abuse
+519,340.06,0,38,232,1,False,1,45.84,Financial Abuse
+454,428.12,0,57,179,1,False,1,61.18,Financial Abuse
+596,330.73,0,44,398,1,False,1,64.76,Financial Abuse
+478,534.78,0,30,208,1,False,1,72.06,Financial Abuse
+415,412.44,0,38,370,1,False,1,55.45,Financial Abuse
+322,396.47,0,40,444,1,False,1,65.51,Financial Abuse
+592,324.46,0,30,451,1,False,1,75.45,Financial Abuse
+392,378.58,0,39,484,1,False,1,65.42,Financial Abuse
+353,370.64,0,33,165,1,False,1,57.96,Financial Abuse
+420,474.83,0,45,349,1,False,1,56.26,Financial Abuse
+370,403.46,0,42,102,1,False,1,59.49,Financial Abuse
+415,520.75,0,58,378,1,False,1,72.71,Financial Abuse
+385,391.57,0,33,406,1,False,1,65.77,Financial Abuse
+538,324.52,0,57,370,1,False,1,60.4,Financial Abuse
+569,569.59,0,45,328,1,False,1,73.64,Financial Abuse
+447,532.76,0,54,204,1,False,1,68.22,Financial Abuse
+472,434.32,0,39,199,1,False,1,52.81,Financial Abuse
+410,366.18,0,44,129,1,False,1,53.06,Financial Abuse
+420,582.74,0,58,243,1,False,1,78.12,Financial Abuse
+351,511.46,0,50,149,1,False,1,70.08,Financial Abuse
+558,549.08,0,59,217,1,False,1,75.89,Financial Abuse
+443,551.52,0,39,465,1,False,1,73.68,Financial Abuse
+491,521.8,0,34,286,1,False,1,63.31,Financial Abuse
+549,412.34,0,48,347,1,False,1,55.45,Financial Abuse
+350,357.14,0,41,142,1,False,1,51.63,Financial Abuse
+428,512.35,0,44,324,1,False,1,56.99,Financial Abuse
+585,358.95,0,55,297,1,False,1,61.47,Financial Abuse
+340,316.81,0,56,488,1,False,1,75.61,Financial Abuse
+513,390.04,0,34,403,1,False,1,60.37,Financial Abuse
+459,504.6,0,32,437,1,False,1,75.49,Financial Abuse
+390,560.73,0,52,238,1,False,1,73.6,Financial Abuse
+360,405.98,0,42,371,1,False,1,54.85,Financial Abuse
+451,552.38,0,44,148,1,False,1,63.46,Financial Abuse
+514,496.31,0,36,346,1,False,1,57.78,Financial Abuse
+582,555.7,0,40,289,1,False,1,71.7,Financial Abuse
+420,422.12,0,47,167,1,False,1,53.61,Financial Abuse
+498,371.57,0,50,164,1,False,1,49.84,Financial Abuse
+318,374.22,0,56,489,1,False,1,76.57,Financial Abuse
+574,500.61,0,34,369,1,False,1,72.82,Financial Abuse
+600,476.06,0,59,497,1,False,1,91.15,Financial Abuse
+329,508.65,0,41,262,1,False,1,64.08,Financial Abuse
+488,475.9,0,39,430,1,False,1,62.18,Financial Abuse
+510,307.99,0,43,351,1,False,1,50.48,Financial Abuse
+529,502.16,0,41,147,1,False,1,58.7,Financial Abuse
+514,539.54,0,38,293,1,False,1,59.93,Financial Abuse
+353,512.84,0,58,407,1,False,1,77.88,Financial Abuse
+579,528.09,0,36,399,1,False,1,75.23,Financial Abuse
+471,412.58,0,60,342,1,False,1,65.97,Financial Abuse
+366,582.5,0,51,391,1,False,1,81.48,Financial Abuse
+501,546.99,0,59,193,1,False,1,74.16,Financial Abuse
+382,329.89,0,40,230,1,False,1,47.69,Financial Abuse
+370,428.47,0,30,378,1,False,1,68.71,Financial Abuse
+302,570.44,0,45,401,1,False,1,80.71,Financial Abuse
+574,535.29,0,33,268,1,False,1,77.21,Financial Abuse
+350,472.91,0,57,284,1,False,1,63.35,Financial Abuse
+423,452.86,0,35,305,1,False,1,55.2,Financial Abuse
+578,338.07,0,30,483,1,False,1,77.43,Financial Abuse
+577,553.49,0,40,497,1,False,1,85.06,Financial Abuse
+314,534.98,0,47,131,1,False,1,75.75,Financial Abuse
+564,341.32,0,36,288,1,False,1,57.1,Financial Abuse
+476,599.64,0,35,264,1,False,1,73.15,Financial Abuse
+543,325.83,0,49,260,1,False,1,52.76,Financial Abuse
+431,411.35,0,45,245,1,False,1,46.93,Financial Abuse
+311,319.54,0,41,473,1,False,1,70.89,Financial Abuse
+509,310.03,0,45,243,1,False,1,49.47,Financial Abuse
+527,383.11,0,33,388,1,False,1,60.64,Financial Abuse
+523,375.52,0,48,417,1,False,1,57.79,Financial Abuse
+449,403.14,0,38,312,1,False,1,48.37,Financial Abuse
+543,489.38,0,31,373,1,False,1,68.82,Financial Abuse
+382,375.72,0,58,227,1,False,1,57.56,Financial Abuse
+386,587.16,0,30,182,1,False,1,83.16,Financial Abuse
+380,335.47,0,41,493,1,False,1,67.93,Financial Abuse
+492,388.98,0,57,412,1,False,1,65.62,Financial Abuse
+556,302.47,0,42,120,1,False,1,58.16,Financial Abuse
+449,500.26,0,57,164,1,False,1,65.49,Financial Abuse
+578,334.13,0,60,353,1,False,1,75.1,Financial Abuse
+561,364.31,0,43,285,1,False,1,53.58,Financial Abuse
+109,19.31,9,13,153,5,False,1,67.85,Account Compromise
+50,21.54,13,6,232,2,False,1,71.68,Account Compromise
+162,16.17,8,15,104,2,False,1,62.33,Account Compromise
+160,25.79,8,12,246,3,False,1,62.31,Account Compromise
+185,8.45,9,5,143,5,False,1,73.91,Account Compromise
+56,15.0,8,8,209,4,False,1,61.74,Account Compromise
+126,29.65,12,9,283,2,False,1,77.07,Account Compromise
+81,11.76,8,7,179,5,False,1,69.9,Account Compromise
+151,25.66,9,14,149,2,False,1,62.14,Account Compromise
+177,14.62,10,8,280,3,False,1,69.09,Account Compromise
+89,21.14,6,14,129,4,False,1,64.96,Account Compromise
+60,15.91,14,5,248,3,False,1,74.65,Account Compromise
+114,22.59,5,11,118,4,False,1,65.86,Account Compromise
+144,25.63,8,14,139,2,False,1,61.09,Account Compromise
+108,14.7,6,15,201,4,False,1,61.32,Account Compromise
+139,21.23,9,9,258,3,False,1,58.67,Account Compromise
+95,9.6,10,11,102,5,False,1,77.98,Account Compromise
+68,11.37,5,14,142,2,False,1,47.35,Account Compromise
+137,22.28,9,13,102,2,False,1,63.71,Account Compromise
+77,9.51,12,13,242,3,False,1,68.09,Account Compromise
+137,13.49,8,14,121,4,False,1,61.79,Account Compromise
+183,20.63,15,12,185,5,False,1,85.23,Account Compromise
+123,11.48,13,8,148,3,False,1,65.93,Account Compromise
+135,18.64,8,12,261,2,False,1,60.42,Account Compromise
+77,21.05,5,6,110,4,False,1,66.75,Account Compromise
+97,13.33,14,6,180,2,False,1,68.3,Account Compromise
+165,23.81,13,15,169,2,False,1,71.43,Account Compromise
+176,15.51,6,13,185,5,False,1,65.51,Account Compromise
+67,27.56,13,14,229,5,False,1,89.31,Account Compromise
+57,18.22,13,5,185,3,False,1,68.92,Account Compromise
+60,17.19,15,10,111,2,False,1,78.95,Account Compromise
+158,10.02,11,6,191,2,False,1,67.15,Account Compromise
+87,28.07,10,13,282,3,False,1,71.18,Account Compromise
+155,10.04,14,13,284,3,False,1,77.58,Account Compromise
+198,20.03,8,6,204,4,False,1,65.4,Account Compromise
+116,29.26,10,9,158,5,False,1,73.88,Account Compromise
+117,26.16,9,13,257,3,False,1,62.5,Account Compromise
+52,9.34,15,7,294,5,False,1,94.63,Account Compromise
+193,29.0,10,5,156,5,False,1,77.59,Account Compromise
+100,8.87,12,7,260,2,False,1,73.11,Account Compromise
+106,28.89,9,6,193,2,False,1,65.73,Account Compromise
+65,20.39,8,9,230,4,False,1,66.8,Account Compromise
+181,11.06,5,12,162,4,False,1,61.69,Account Compromise
+193,6.16,14,13,147,3,False,1,73.3,Account Compromise
+63,15.17,8,14,256,2,False,1,57.27,Account Compromise
+88,15.76,8,6,144,2,False,1,61.97,Account Compromise
+99,20.42,15,11,128,4,False,1,82.59,Account Compromise
+69,8.34,15,15,270,3,False,1,78.97,Account Compromise
+159,17.56,9,12,210,2,False,1,56.02,Account Compromise
+169,27.59,14,15,289,2,False,1,84.39,Account Compromise
+163,25.14,12,14,189,2,False,1,71.73,Account Compromise
+58,21.59,11,5,277,2,False,1,77.15,Account Compromise
+198,8.88,5,15,287,3,False,1,71.07,Account Compromise
+184,21.42,8,14,111,5,False,1,77.19,Account Compromise
+153,9.11,5,7,285,3,False,1,65.83,Account Compromise
+62,6.82,14,5,185,4,False,1,79.98,Account Compromise
+152,22.94,5,10,159,2,False,1,59.37,Account Compromise
+142,25.35,15,5,111,3,False,1,85.65,Account Compromise
+95,9.43,13,14,238,2,False,1,63.54,Account Compromise
+168,22.99,6,10,250,5,False,1,75.64,Account Compromise
+156,28.24,9,8,146,2,False,1,68.19,Account Compromise
+74,23.52,14,9,110,2,False,1,77.82,Account Compromise
+81,20.44,5,6,188,5,False,1,69.54,Account Compromise
+159,29.23,15,5,227,3,False,1,79.6,Account Compromise
+95,18.28,15,6,157,4,False,1,76.4,Account Compromise
+183,7.66,7,6,120,5,False,1,72.21,Account Compromise
+145,24.18,12,13,223,2,False,1,68.78,Account Compromise
+90,16.58,6,6,162,5,False,1,67.81,Account Compromise
+61,15.61,13,14,170,5,False,1,81.27,Account Compromise
+163,5.49,5,9,197,4,False,1,61.46,Account Compromise
+88,18.89,7,6,233,4,False,1,65.99,Account Compromise
+100,14.41,5,8,285,5,False,1,79.72,Account Compromise
+128,7.12,15,9,179,3,False,1,74.27,Account Compromise
+134,29.49,15,15,218,5,False,1,92.68,Account Compromise
+170,20.75,15,10,213,2,False,1,79.55,Account Compromise
+79,16.02,15,7,108,3,False,1,78.29,Account Compromise
+112,18.47,14,12,247,2,False,1,67.98,Account Compromise
+156,17.1,15,6,150,3,False,1,74.36,Account Compromise
+198,5.01,6,10,136,2,False,1,65.19,Account Compromise
+133,10.7,6,8,109,4,False,1,63.47,Account Compromise
+139,13.76,7,14,179,4,False,1,60.96,Account Compromise
+117,28.56,13,6,300,5,False,1,89.61,Account Compromise
+142,9.97,6,14,152,3,False,1,52.48,Account Compromise
+93,15.3,10,13,191,2,False,1,58.1,Account Compromise
+173,11.94,9,8,149,3,False,1,60.14,Account Compromise
+56,10.74,6,13,252,2,False,1,56.13,Account Compromise
+58,25.47,11,9,217,3,False,1,64.61,Account Compromise
+53,25.29,15,6,171,4,False,1,79.99,Account Compromise
+87,11.59,13,13,149,2,False,1,63.91,Account Compromise
+153,8.38,6,10,112,4,False,1,63.97,Account Compromise
+161,16.91,10,5,116,5,False,1,77.49,Account Compromise
+56,6.03,9,14,255,3,False,1,60.25,Account Compromise
+171,27.68,15,13,176,2,False,1,80.5,Account Compromise
+129,26.61,8,14,122,3,False,1,62.04,Account Compromise
+124,20.75,8,13,120,2,False,1,57.64,Account Compromise
+149,7.16,7,13,247,2,False,1,60.64,Account Compromise
+126,27.27,5,7,257,2,False,1,68.26,Account Compromise
+156,27.31,13,10,207,3,False,1,68.16,Account Compromise
+61,16.1,5,7,274,4,False,1,70.42,Account Compromise
+169,14.35,6,11,180,3,False,1,53.28,Account Compromise
