@@ -272,4 +272,4 @@ Supported predictions:
 Clone this repository:
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/Jiaxuan53/SentinelAI.git
